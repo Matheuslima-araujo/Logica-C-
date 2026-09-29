@@ -1,7 +1,0 @@
-C:\Users\matheus.laraujo7\Documents\C#\Atividade 24.09.2026\Atividade 24.09.2026\bin\Debug\Atividade 24.09.2026.exe.config
-C:\Users\matheus.laraujo7\Documents\C#\Atividade 24.09.2026\Atividade 24.09.2026\bin\Debug\Atividade 24.09.2026.exe
-C:\Users\matheus.laraujo7\Documents\C#\Atividade 24.09.2026\Atividade 24.09.2026\bin\Debug\Atividade 24.09.2026.pdb
-C:\Users\matheus.laraujo7\Documents\C#\Atividade 24.09.2026\Atividade 24.09.2026\obj\Debug\Atividade 24.09.2026.csproj.AssemblyReference.cache
-C:\Users\matheus.laraujo7\Documents\C#\Atividade 24.09.2026\Atividade 24.09.2026\obj\Debug\Atividade 24.09.2026.csproj.CoreCompileInputs.cache
-C:\Users\matheus.laraujo7\Documents\C#\Atividade 24.09.2026\Atividade 24.09.2026\obj\Debug\Atividade 24.09.2026.exe
-C:\Users\matheus.laraujo7\Documents\C#\Atividade 24.09.2026\Atividade 24.09.2026\obj\Debug\Atividade 24.09.2026.pdb
